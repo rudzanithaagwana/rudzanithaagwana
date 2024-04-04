@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to code in python and R.
 - 💞️ I’m looking to collaborate on various data analysis projects.
 - 📫 How to reach me is through my email : rjthagwana@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know that Python, originally a general-purpose language, ended up becoming the go-to choice for data analysis? Its rise to dominance in this field showcases how a language's versatility and community support can lead to unexpected success stories! 🐍📊
 
 <!---
